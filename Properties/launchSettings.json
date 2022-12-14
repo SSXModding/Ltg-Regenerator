@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MiniLTGRebuilderForm": {
+      "commandName": "Project",
+      "commandLineArgs": "\"H:\\Visual Studio Projects\\SSX Modder\\bin\\Debug\\disk\\SSX Tricky\\DATA\\MODELS\\gari.pbd\" \"H:\\Visual Studio Projects\\SSX Modder\\bin\\Debug\\disk\\SSX Tricky\\DATA\\MODELS\\gari.ltg\""
+    }
+  }
+}
